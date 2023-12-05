@@ -4,6 +4,7 @@
         <div class="days">
             <NuxtLink to="/01">01</NuxtLink>
             <NuxtLink to="/02">02</NuxtLink>
+            <NuxtLink to="/03">03</NuxtLink>
         </div>
     </div>
 </template>
