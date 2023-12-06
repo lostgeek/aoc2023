@@ -6,6 +6,7 @@
             <NuxtLink to="/02">02</NuxtLink>
             <NuxtLink to="/03">03</NuxtLink>
         </div>
+        <a href="https://github.com/lostgeek/aoc2023" target="_blank" class="github"><GitHub /> GitHub</a>
     </div>
 </template>
 
@@ -27,6 +28,18 @@
     & a {
         width: 1rem;
         text-align: center;
+    }
+}
+
+.github {
+    margin-top: 3rem;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    gap: .5rem;
+
+    & svg {
+        fill: white;
     }
 }
 </style>
