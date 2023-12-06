@@ -5,6 +5,7 @@
             <NuxtLink to="/01">01</NuxtLink>
             <NuxtLink to="/02">02</NuxtLink>
             <NuxtLink to="/03">03</NuxtLink>
+            <NuxtLink to="/04">04</NuxtLink>
         </div>
         <a href="https://github.com/lostgeek/aoc2023" target="_blank" class="github"><GitHub /> GitHub</a>
     </div>
